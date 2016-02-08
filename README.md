@@ -31,20 +31,24 @@ without reference to meaning or context".
 
 - Indirect Proof/ Proof by Contraposition (F --> F = T):
 1. Assume ¬q is TRUE.
+
 2. Show ¬p is also TRUE.
  
 - Vacuous proof
 > p --> q = T when p is FALSE.
 1. F --> T = T
+
 2. F --> F = T
 
 - Trivial proof
 > p--> q = T when q is TRUE.
 1. T --> T = T
+
 2. F --> T = T
  
 - Proof by Contradiction
 1. Assume proposition is FALSE.
+
 2. Use assumption & other facts to reach a contradiction.
 
 - Proof by Equivalence (Biconditional)
