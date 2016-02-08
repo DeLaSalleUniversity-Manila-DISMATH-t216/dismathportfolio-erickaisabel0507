@@ -23,8 +23,29 @@ without reference to meaning or context".
 
 - Similarly, an argument is VALID if the truth of all premises implies that the conclusion is TRUE.
 ## Week 4
-- Direct Proof has two important steps:
+- Direct Proof (T --> T = T):
 
 1. Assume that p is TRUE.
 
 2. Show/illustrate that q must also be TRUE.
+
+- Indirect Proof/ Proof by Contraposition (F --> F = T):
+1. Assume ¬q is TRUE.
+2. Show ¬p is also TRUE.
+ 
+- Vacuous proof
+> p --> q = T when p is FALSE.
+1. F --> T = T
+2. F --> F = T
+
+- Trivial proof
+> p--> q = T when q is TRUE.
+1. T --> T = T
+2. F --> T = T
+ 
+- Proof by Contradiction
+1. Assume proposition is FALSE.
+2. Use assumption & other facts to reach a contradiction.
+
+- Proof by Equivalence (Biconditional)
+> Show p --> q & q --> p are both TRUE.
