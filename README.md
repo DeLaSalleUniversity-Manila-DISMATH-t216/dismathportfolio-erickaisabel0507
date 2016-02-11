@@ -80,4 +80,4 @@ I learned about:
 
  b. Show P(k+1) is TRUE.
 
-> If it starts true and its stays true, then it is always true.
+> If it starts true and it stays true, then it is always true.
