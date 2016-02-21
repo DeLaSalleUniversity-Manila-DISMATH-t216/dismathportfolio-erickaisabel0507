@@ -81,3 +81,24 @@ I learned about:
  b. Show P(k+1) is TRUE.
 
 > If it starts true and it stays true, then it is always true.
+
+## Week 6
+I learned about:
+
+- Recursive Definition
+
+> Basis Step: Specify the value of the function  at zero.
+
+> Recursive Step: Give a rule for finding its value at an integer from its values at smaller integers.
+
+- Program Correctness
+
+> Program Verification
+
+1. Show that the correct answer is obtained if the program terminates (partial correctness).
+
+   > initial assertion p --> properties that the input values must have
+   
+   > final assertion q --> properties that the output of the program should have
+
+2. Show that the program always terminates.
