@@ -102,3 +102,9 @@ I learned about:
    > final assertion q --> properties that the output of the program should have
 
 2. Show that the program always terminates.
+
+## Week 7
+I learned that:
+- An empty set is not equal to a set containing an empty set.
+- A power set contains all subsets of a set. (no. of subsets= 2^n where n is the number of elements of a set)
+- Identities also exist in sets.
