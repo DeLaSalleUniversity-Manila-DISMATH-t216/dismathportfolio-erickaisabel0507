@@ -108,3 +108,28 @@ I learned that:
 - An empty set is not equal to a set containing an empty set.
 - A power set contains all subsets of a set. (no. of subsets= 2^n where n is the number of elements of a set)
 - Identities also exist in sets.
+ 
+## Week 8
+I learned that:
+- If f(a)=b, then b is the image of a.
+- There are 3 types of functions.
+
+> One-to-one function (Injective)
+
+ > For every x,y such that (x!=y --> f(x)!=f(y))
+ 
+> Onto Function (Surjective)
+
+ > For every y, there's an x such that (f(x)=y)
+ 
+> Bijective Function
+
+ >If and only if it is BOTH injective & surjective.
+ 
+> An algorithm has 6 important properties.
+ 1. Input- REQUIRED
+ 2. Output- REQUIRED
+ 3. Definiteness- purpose of the program
+ 4. Correctness- Program should produce a correct output.
+ 5. Finiteness- It should not run forever.
+ 6. Generality- applicable to all programs
