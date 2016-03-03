@@ -126,7 +126,7 @@ I learned that:
 
  >If and only if it is BOTH injective & surjective.
  
-> An algorithm has 6 important properties.
+- An algorithm has 6 important properties.
  1. Input- REQUIRED
  2. Output- REQUIRED
  3. Definiteness- purpose of the program
