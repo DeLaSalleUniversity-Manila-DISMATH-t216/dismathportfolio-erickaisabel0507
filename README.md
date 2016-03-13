@@ -133,3 +133,29 @@ I learned that:
  4. Correctness- Program should produce a correct output.
  5. Finiteness- It should not run forever.
  6. Generality- applicable to all programs
+
+## Week 9
+I learned about different types of algorithms.
+- Finding the Minimum/Maximum
+
+> All integers in the set are compared until the minimum/maximum is found.
+
+- Linear Search Algorithm
+
+> All integers in the set are compared until the integer being searched is found.
+
+- Binary Search Algorithm
+
+> The set of integers will be cut into half in each iteration.
+
+- Bubble Sort Algorithm
+
+> Largest will be sorted to the right.
+
+- Insertion Sort Algorithm
+
+> Each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list, and inserts it there. It repeats until no input elements remain.
+
+- Greedy Change Algorithm
+
+> Find the minimum number of coins in a given amount.
