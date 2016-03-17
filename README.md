@@ -159,3 +159,31 @@ I learned about different types of algorithms.
 - Greedy Change Algorithm
 
 > Find the minimum number of coins in a given amount.
+
+## Week 10
+
+I learned about:
+
+- Growth of Fuctions
+
+> Big-O: upper bound --> f(x)<= C(g(x))
+
+> Big-Ω: lower bound --> f(x)>= C(g(x))
+
+>Big-θ: upper bound = lower bound --> C1g1(x) <= f(x) <= C2g2(x)
+
+- Time Complexity of Algorithms
+
+* The lesser the complexity, the simpler the algorithm is.
+
+n!
+
+2^n
+
+n^2
+
+n log n
+
+1
+
+* worst time compleexity (↑)
