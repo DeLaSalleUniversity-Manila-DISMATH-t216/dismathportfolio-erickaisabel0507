@@ -186,7 +186,7 @@ n log n
 
 1
 
-* worst time complexity (↑)
+Note: worst time complexity (↑)
 
 - Applications
 
