@@ -186,4 +186,10 @@ n log n
 
 1
 
-* worst time compleexity (↑)
+* worst time complexity (↑)
+
+- Applications
+
+> Division & Modulo Operator --> dividend= (divisor)*(quotient)+Remainder
+
+> Cryptology: study of secret messages
