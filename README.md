@@ -193,3 +193,14 @@ Note: worst time complexity (↑)
 > Division & Modulo Operator --> dividend= (divisor)*(quotient)+Remainder
 
 > Cryptology: study of secret messages
+
+## Week 10
+
+I learned that:
+
+- A circuit is a path but not all paths are circuits.
+- A Euler circuit can be determined if ALL nodes of the graph have EVEN degree.
+- A Euler path can be determined if the graph has EXACTLY 2 nodes of ODD degree.
+- A Hamilton path can be determined if every node in the graph can be passed EXACTLY ONCE.
+- Handshake Theorem: ∑deg(v)=2e
+- Euler's Formula: r=e-v+2
