@@ -204,3 +204,27 @@ I learned that:
 - A Hamilton path can be determined if every node in the graph can be passed EXACTLY ONCE.
 - Handshake Theorem: ∑deg(v)=2e
 - Euler's Formula: r=e-v+2
+
+## Week 12
+
+I learned that:
+
+- The nodes of a graph can be colored in a maximum of four colors. (Four Color Theorem)
+- Grammars are  used to generate words of a language and to determine whether a word is in a language while formal languages provide models for both natural languages, such as English and for programming languages.
+
+> Syntax --> natural language
+
+> Formal language --> specified by a well-defined set of rules of syntax
+
+- The Automata Theory is very useful in some engineering applications such as the mechanism of vending machines.
+- The finite automaton is the simplest model of a computing device.
+
+> Initial State
+
+> Final/Acceptance State
+
+> Dead/Stuck State
+
+> Transition
+
+-Lexical analysis is the process where the stream of characters making up the source program is read from left-to-right and grouped into tokens.
